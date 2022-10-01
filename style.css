@@ -1,0 +1,14 @@
+h1{
+    justify-content: center;
+    display: flex;
+    color: darkred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fondoNaranja{
+    background-color: orange;
+}
+
+#textoParrafos{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
